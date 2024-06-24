@@ -1,0 +1,992 @@
+{
+  "vaultName": "Obsidian",
+  "lastExport": 1719231506265,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Immagini/66gjhb8h.bmp",
+    "Immagini/desktop.ini",
+    "Immagini/Pasted image 20240208104042.png",
+    "Immagini/Pasted image 20240208104945.png",
+    "Immagini/Pasted image 20240208105000.png",
+    "Immagini/Pasted image 20240208105226.png",
+    "Immagini/Pasted image 20240208105247.png",
+    "Immagini/ywuhnty2.bmp",
+    "Java/Gestione File/desktop.ini",
+    "Java/Gestione File/File CSV.md",
+    "Java/Gestione File/Operazioni sui file.md",
+    "Java/Gestione File/Serializzazione e Deserializzazione.md",
+    "Java/Gestione File/Serializzazione e persistenza degli oggetti su file.md",
+    "Java/Grafica/Esempi/desktop.ini",
+    "Java/Grafica/Esempi/Esempio 1.md",
+    "Java/Grafica/Esempi/Esempio 2.md",
+    "Java/Grafica/Esempi/Esempio che scrive la voce di menu selezionata in una casella di testo nella finestra.md",
+    "Java/Grafica/Esempi/Esempio di caselle combinate, pulsanti di selezione e caselle di controllo.md",
+    "Java/Grafica/Esempi/Finestra con due pulsanti per far diventare rosso o verde lo sfondo con gestori di eventi separati.md",
+    "Java/Grafica/Esempi/Finestra con due pulsanti per far diventare rosso o verde lo sfondo con un unico gestore di eventi per i due pulsanti.md",
+    "Java/Grafica/Esempi/Finestra con pannello con layout null.md",
+    "Java/Grafica/Esempi/Gestione degli eventi della finestra con classe ascoltatore coincidente con la finestra stessa.md",
+    "Java/Grafica/Esempi/Gestione degli eventi della finestra con classe ascoltatore esterna.md",
+    "Java/Grafica/Esempi/Gestione degli eventi della finestra con classe ascoltatore interno.md",
+    "Java/Grafica/Esempi/Gestione degli eventi della finestra con l'ascoltatore realizzato come classe interna che estende la classe adattatore WindowAdapter.md",
+    "Java/Grafica/Esempi/Somma di numeri inseriti in una casella di testo con risultato visualizzato in un'altra casella di testo.md",
+    "Java/Grafica/Esempi/Testo in un'area di testo e quando si preme il pulsante leggi si stampa il testo nella finestra dei comandi.md",
+    "Java/Grafica/Altri componenti e creazione di componenti personalizzati.md",
+    "Java/Grafica/BorderLayout.md",
+    "Java/Grafica/Bordi.md",
+    "Java/Grafica/Caselle combinate.md",
+    "Java/Grafica/Caselle di controllo e pulsanti di selezione.md",
+    "Java/Grafica/Caselle e aree di testo.md",
+    "Java/Grafica/Componenti e Contenitori.md",
+    "Java/Grafica/Contenitori.md",
+    "Java/Grafica/Costruire un programma con interfaccia grafica.md",
+    "Java/Grafica/desktop.ini",
+    "Java/Grafica/Etichette.md",
+    "Java/Grafica/Eventi.md",
+    "Java/Grafica/Eventi del mouse - classe ascoltatore esterna.md",
+    "Java/Grafica/Eventi del mouse - classe ascoltatore interna.md",
+    "Java/Grafica/Eventi della tastiera.md",
+    "Java/Grafica/Eventi finestra.md",
+    "Java/Grafica/Eventi sui componenti - ActionEvent.md",
+    "Java/Grafica/Finestre.md",
+    "Java/Grafica/Finestre di applicazione.md",
+    "Java/Grafica/Finestre di dialogo.md",
+    "Java/Grafica/FlowLayout.md",
+    "Java/Grafica/Gestione del layout.md",
+    "Java/Grafica/Gli Eventi.md",
+    "Java/Grafica/GridBagLayout e CardLayout.md",
+    "Java/Grafica/GridLayout.md",
+    "Java/Grafica/Inserimento di componenti.md",
+    "Java/Grafica/Interfacce grafiche e messaggi asincroni.md",
+    "Java/Grafica/Introduzione alle interfacce grafiche.md",
+    "Java/Grafica/JTextArea.md",
+    "Java/Grafica/JTextField.md",
+    "Java/Grafica/Layout più complessi.md",
+    "Java/Grafica/Librerie grafiche.md",
+    "Java/Grafica/Menu.md",
+    "Java/Grafica/Modello di delegazione degli eventi.md",
+    "Java/Grafica/Origine e ascoltatore coincidenti.md",
+    "Java/Grafica/Pulsanti.md",
+    "Java/Grafica/Uso della classe adattatore.md",
+    "Java/La classe Scanner/Esempi/desktop.ini",
+    "Java/La classe Scanner/Esempi/Input da stringa, lettura di token e interi con delimitatore ;.md",
+    "Java/La classe Scanner/Esempi/Input di una riga di testo da tastiera.md",
+    "Java/La classe Scanner/Esempi/Input di una stringa - Lettura di token di interi.md",
+    "Java/La classe Scanner/Esempi/Lettura di interi da tastiera.md",
+    "Java/La classe Scanner/desktop.ini",
+    "Java/La classe Scanner/La classe Scanner.md",
+    "Java/Programmazione OOP/Concetti sulla Programmazione OOP.md",
+    "Java/Programmazione OOP/desktop.ini",
+    "Java/desktop.ini",
+    "Java/Glossario - Gestione File.md",
+    "Java/Glossario - Grafica Java.md",
+    "JavaScript/jQuery/desktop.ini",
+    "JavaScript/jQuery/Eventi.md",
+    "JavaScript/jQuery/La libreria jQuery di JavaScript.md",
+    "JavaScript/jQuery/Metodi.md",
+    "JavaScript/jQuery/Selettori.md",
+    "JavaScript/jQuery/Tecniche per il caricamento asincrono.md",
+    "JavaScript/desktop.ini",
+    "JavaScript/Glossario - jQuery JavaScript.md",
+    "PHP/Introduzione/Array.md",
+    "PHP/Introduzione/desktop.ini",
+    "PHP/Introduzione/Funzioni PHP.md",
+    "PHP/Introduzione/Gestione dei FORM con PHP.md",
+    "PHP/Introduzione/Introduzione.md",
+    "PHP/Introduzione/Istruzioni condizionali.md",
+    "PHP/Introduzione/Istruzioni iterative.md",
+    "PHP/Introduzione/PHP e DATABASE.md",
+    "PHP/Introduzione/Tecniche avanzate con PHP.md",
+    "PHP/desktop.ini",
+    "PHP/Glossario PHP - Introduzione.md",
+    "Index.md",
+    "lib/media/66gjhb8h.bmp",
+    "lib/media/ywuhnty2.bmp",
+    "lib/media/pasted-image-20240208104042.png",
+    "lib/media/pasted-image-20240208104945.png",
+    "lib/media/pasted-image-20240208105000.png",
+    "lib/media/pasted-image-20240208105226.png",
+    "lib/media/pasted-image-20240208105247.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Immagini/66gjhb8h.bmp": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1438230,
+      "exportedPath": "immagini/66gjhb8h.bmp",
+      "dependencies": []
+    },
+    "Immagini/desktop.ini": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 244,
+      "exportedPath": "immagini/desktop.ini",
+      "dependencies": []
+    },
+    "Immagini/Pasted image 20240208104042.png": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 54731,
+      "exportedPath": "immagini/pasted-image-20240208104042.png",
+      "dependencies": []
+    },
+    "Immagini/Pasted image 20240208104945.png": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 277022,
+      "exportedPath": "immagini/pasted-image-20240208104945.png",
+      "dependencies": []
+    },
+    "Immagini/Pasted image 20240208105000.png": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 339977,
+      "exportedPath": "immagini/pasted-image-20240208105000.png",
+      "dependencies": []
+    },
+    "Immagini/Pasted image 20240208105226.png": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 108950,
+      "exportedPath": "immagini/pasted-image-20240208105226.png",
+      "dependencies": []
+    },
+    "Immagini/Pasted image 20240208105247.png": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 149835,
+      "exportedPath": "immagini/pasted-image-20240208105247.png",
+      "dependencies": []
+    },
+    "Immagini/ywuhnty2.bmp": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 525786,
+      "exportedPath": "immagini/ywuhnty2.bmp",
+      "dependencies": []
+    },
+    "Java/Gestione File/desktop.ini": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 244,
+      "exportedPath": "java/gestione-file/desktop.ini",
+      "dependencies": []
+    },
+    "Java/Gestione File/File CSV.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 10,
+      "exportedPath": "java/gestione-file/file-csv.html",
+      "dependencies": []
+    },
+    "Java/Gestione File/Operazioni sui file.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 46,
+      "exportedPath": "java/gestione-file/operazioni-sui-file.html",
+      "dependencies": [
+        "lib/media/66gjhb8h.bmp",
+        "lib/media/ywuhnty2.bmp"
+      ]
+    },
+    "Java/Gestione File/Serializzazione e Deserializzazione.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 8,
+      "exportedPath": "java/gestione-file/serializzazione-e-deserializzazione.html",
+      "dependencies": []
+    },
+    "Java/Gestione File/Serializzazione e persistenza degli oggetti su file.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 4000,
+      "exportedPath": "java/gestione-file/serializzazione-e-persistenza-degli-oggetti-su-file.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Esempi/desktop.ini": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 244,
+      "exportedPath": "java/grafica/esempi/desktop.ini",
+      "dependencies": []
+    },
+    "Java/Grafica/Esempi/Esempio 1.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1091,
+      "exportedPath": "java/grafica/esempi/esempio-1.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Esempi/Esempio 2.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1251,
+      "exportedPath": "java/grafica/esempi/esempio-2.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Esempi/Esempio che scrive la voce di menu selezionata in una casella di testo nella finestra.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1979,
+      "exportedPath": "java/grafica/esempi/esempio-che-scrive-la-voce-di-menu-selezionata-in-una-casella-di-testo-nella-finestra.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Esempi/Esempio di caselle combinate, pulsanti di selezione e caselle di controllo.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 3067,
+      "exportedPath": "java/grafica/esempi/esempio-di-caselle-combinate,-pulsanti-di-selezione-e-caselle-di-controllo.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Esempi/Finestra con due pulsanti per far diventare rosso o verde lo sfondo con gestori di eventi separati.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1041,
+      "exportedPath": "java/grafica/esempi/finestra-con-due-pulsanti-per-far-diventare-rosso-o-verde-lo-sfondo-con-gestori-di-eventi-separati.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Esempi/Finestra con due pulsanti per far diventare rosso o verde lo sfondo con un unico gestore di eventi per i due pulsanti.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1050,
+      "exportedPath": "java/grafica/esempi/finestra-con-due-pulsanti-per-far-diventare-rosso-o-verde-lo-sfondo-con-un-unico-gestore-di-eventi-per-i-due-pulsanti.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Esempi/Finestra con pannello con layout null.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 815,
+      "exportedPath": "java/grafica/esempi/finestra-con-pannello-con-layout-null.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Esempi/Gestione degli eventi della finestra con classe ascoltatore coincidente con la finestra stessa.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1150,
+      "exportedPath": "java/grafica/esempi/gestione-degli-eventi-della-finestra-con-classe-ascoltatore-coincidente-con-la-finestra-stessa.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Esempi/Gestione degli eventi della finestra con classe ascoltatore esterna.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1118,
+      "exportedPath": "java/grafica/esempi/gestione-degli-eventi-della-finestra-con-classe-ascoltatore-esterna.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Esempi/Gestione degli eventi della finestra con classe ascoltatore interno.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1151,
+      "exportedPath": "java/grafica/esempi/gestione-degli-eventi-della-finestra-con-classe-ascoltatore-interno.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Esempi/Gestione degli eventi della finestra con l'ascoltatore realizzato come classe interna che estende la classe adattatore WindowAdapter.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 592,
+      "exportedPath": "java/grafica/esempi/gestione-degli-eventi-della-finestra-con-l'ascoltatore-realizzato-come-classe-interna-che-estende-la-classe-adattatore-windowadapter.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Esempi/Somma di numeri inseriti in una casella di testo con risultato visualizzato in un'altra casella di testo.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1001,
+      "exportedPath": "java/grafica/esempi/somma-di-numeri-inseriti-in-una-casella-di-testo-con-risultato-visualizzato-in-un'altra-casella-di-testo.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Esempi/Testo in un'area di testo e quando si preme il pulsante leggi si stampa il testo nella finestra dei comandi.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 869,
+      "exportedPath": "java/grafica/esempi/testo-in-un'area-di-testo-e-quando-si-preme-il-pulsante-leggi-si-stampa-il-testo-nella-finestra-dei-comandi.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Altri componenti e creazione di componenti personalizzati.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2225,
+      "exportedPath": "java/grafica/altri-componenti-e-creazione-di-componenti-personalizzati.html",
+      "dependencies": []
+    },
+    "Java/Grafica/BorderLayout.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1777,
+      "exportedPath": "java/grafica/borderlayout.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Bordi.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1777,
+      "exportedPath": "java/grafica/bordi.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Caselle combinate.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1716,
+      "exportedPath": "java/grafica/caselle-combinate.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Caselle di controllo e pulsanti di selezione.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1597,
+      "exportedPath": "java/grafica/caselle-di-controllo-e-pulsanti-di-selezione.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Caselle e aree di testo.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1152,
+      "exportedPath": "java/grafica/caselle-e-aree-di-testo.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Componenti e Contenitori.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2872,
+      "exportedPath": "java/grafica/componenti-e-contenitori.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Contenitori.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1089,
+      "exportedPath": "java/grafica/contenitori.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Costruire un programma con interfaccia grafica.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1299,
+      "exportedPath": "java/grafica/costruire-un-programma-con-interfaccia-grafica.html",
+      "dependencies": []
+    },
+    "Java/Grafica/desktop.ini": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 244,
+      "exportedPath": "java/grafica/desktop.ini",
+      "dependencies": []
+    },
+    "Java/Grafica/Etichette.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1355,
+      "exportedPath": "java/grafica/etichette.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Eventi.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2630,
+      "exportedPath": "java/grafica/eventi.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Eventi del mouse - classe ascoltatore esterna.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 3242,
+      "exportedPath": "java/grafica/eventi-del-mouse-classe-ascoltatore-esterna.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Eventi del mouse - classe ascoltatore interna.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 3284,
+      "exportedPath": "java/grafica/eventi-del-mouse-classe-ascoltatore-interna.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Eventi della tastiera.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2379,
+      "exportedPath": "java/grafica/eventi-della-tastiera.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Eventi finestra.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2175,
+      "exportedPath": "java/grafica/eventi-finestra.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Eventi sui componenti - ActionEvent.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2181,
+      "exportedPath": "java/grafica/eventi-sui-componenti-actionevent.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Finestre.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2517,
+      "exportedPath": "java/grafica/finestre.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Finestre di applicazione.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 4711,
+      "exportedPath": "java/grafica/finestre-di-applicazione.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Finestre di dialogo.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2862,
+      "exportedPath": "java/grafica/finestre-di-dialogo.html",
+      "dependencies": []
+    },
+    "Java/Grafica/FlowLayout.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1581,
+      "exportedPath": "java/grafica/flowlayout.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Gestione del layout.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 686,
+      "exportedPath": "java/grafica/gestione-del-layout.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Gli Eventi.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1389,
+      "exportedPath": "java/grafica/gli-eventi.html",
+      "dependencies": []
+    },
+    "Java/Grafica/GridBagLayout e CardLayout.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 809,
+      "exportedPath": "java/grafica/gridbaglayout-e-cardlayout.html",
+      "dependencies": []
+    },
+    "Java/Grafica/GridLayout.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1499,
+      "exportedPath": "java/grafica/gridlayout.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Inserimento di componenti.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2595,
+      "exportedPath": "java/grafica/inserimento-di-componenti.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Interfacce grafiche e messaggi asincroni.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1355,
+      "exportedPath": "java/grafica/interfacce-grafiche-e-messaggi-asincroni.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Introduzione alle interfacce grafiche.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2815,
+      "exportedPath": "java/grafica/introduzione-alle-interfacce-grafiche.html",
+      "dependencies": []
+    },
+    "Java/Grafica/JTextArea.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1242,
+      "exportedPath": "java/grafica/jtextarea.html",
+      "dependencies": []
+    },
+    "Java/Grafica/JTextField.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1154,
+      "exportedPath": "java/grafica/jtextfield.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Layout più complessi.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 986,
+      "exportedPath": "java/grafica/layout-più-complessi.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Librerie grafiche.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2126,
+      "exportedPath": "java/grafica/librerie-grafiche.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Menu.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1574,
+      "exportedPath": "java/grafica/menu.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Modello di delegazione degli eventi.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 5196,
+      "exportedPath": "java/grafica/modello-di-delegazione-degli-eventi.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Origine e ascoltatore coincidenti.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1571,
+      "exportedPath": "java/grafica/origine-e-ascoltatore-coincidenti.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Pulsanti.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1843,
+      "exportedPath": "java/grafica/pulsanti.html",
+      "dependencies": []
+    },
+    "Java/Grafica/Uso della classe adattatore.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1112,
+      "exportedPath": "java/grafica/uso-della-classe-adattatore.html",
+      "dependencies": []
+    },
+    "Java/La classe Scanner/Esempi/desktop.ini": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 244,
+      "exportedPath": "java/la-classe-scanner/esempi/desktop.ini",
+      "dependencies": []
+    },
+    "Java/La classe Scanner/Esempi/Input da stringa, lettura di token e interi con delimitatore ;.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2395,
+      "exportedPath": "java/la-classe-scanner/esempi/input-da-stringa,-lettura-di-token-e-interi-con-delimitatore-;.html",
+      "dependencies": []
+    },
+    "Java/La classe Scanner/Esempi/Input di una riga di testo da tastiera.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 747,
+      "exportedPath": "java/la-classe-scanner/esempi/input-di-una-riga-di-testo-da-tastiera.html",
+      "dependencies": []
+    },
+    "Java/La classe Scanner/Esempi/Input di una stringa - Lettura di token di interi.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 731,
+      "exportedPath": "java/la-classe-scanner/esempi/input-di-una-stringa-lettura-di-token-di-interi.html",
+      "dependencies": []
+    },
+    "Java/La classe Scanner/Esempi/Lettura di interi da tastiera.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 979,
+      "exportedPath": "java/la-classe-scanner/esempi/lettura-di-interi-da-tastiera.html",
+      "dependencies": []
+    },
+    "Java/La classe Scanner/desktop.ini": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 244,
+      "exportedPath": "java/la-classe-scanner/desktop.ini",
+      "dependencies": []
+    },
+    "Java/La classe Scanner/La classe Scanner.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2857,
+      "exportedPath": "java/la-classe-scanner/la-classe-scanner.html",
+      "dependencies": []
+    },
+    "Java/Programmazione OOP/Concetti sulla Programmazione OOP.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 4153,
+      "exportedPath": "java/programmazione-oop/concetti-sulla-programmazione-oop.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240208104042.png",
+        "lib/media/pasted-image-20240208104945.png",
+        "lib/media/pasted-image-20240208105000.png",
+        "lib/media/pasted-image-20240208105226.png",
+        "lib/media/pasted-image-20240208105247.png"
+      ]
+    },
+    "Java/Programmazione OOP/desktop.ini": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 244,
+      "exportedPath": "java/programmazione-oop/desktop.ini",
+      "dependencies": []
+    },
+    "Java/desktop.ini": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 244,
+      "exportedPath": "java/desktop.ini",
+      "dependencies": []
+    },
+    "Java/Glossario - Gestione File.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 154,
+      "exportedPath": "java/glossario-gestione-file.html",
+      "dependencies": []
+    },
+    "Java/Glossario - Grafica Java.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1110,
+      "exportedPath": "java/glossario-grafica-java.html",
+      "dependencies": []
+    },
+    "JavaScript/jQuery/desktop.ini": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 244,
+      "exportedPath": "javascript/jquery/desktop.ini",
+      "dependencies": []
+    },
+    "JavaScript/jQuery/Eventi.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1504,
+      "exportedPath": "javascript/jquery/eventi.html",
+      "dependencies": []
+    },
+    "JavaScript/jQuery/La libreria jQuery di JavaScript.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 712,
+      "exportedPath": "javascript/jquery/la-libreria-jquery-di-javascript.html",
+      "dependencies": []
+    },
+    "JavaScript/jQuery/Metodi.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2638,
+      "exportedPath": "javascript/jquery/metodi.html",
+      "dependencies": []
+    },
+    "JavaScript/jQuery/Selettori.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 725,
+      "exportedPath": "javascript/jquery/selettori.html",
+      "dependencies": []
+    },
+    "JavaScript/jQuery/Tecniche per il caricamento asincrono.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1969,
+      "exportedPath": "javascript/jquery/tecniche-per-il-caricamento-asincrono.html",
+      "dependencies": []
+    },
+    "JavaScript/desktop.ini": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 244,
+      "exportedPath": "javascript/desktop.ini",
+      "dependencies": []
+    },
+    "JavaScript/Glossario - jQuery JavaScript.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 193,
+      "exportedPath": "javascript/glossario-jquery-javascript.html",
+      "dependencies": []
+    },
+    "PHP/Introduzione/Array.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 3347,
+      "exportedPath": "php/introduzione/array.html",
+      "dependencies": []
+    },
+    "PHP/Introduzione/desktop.ini": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 244,
+      "exportedPath": "php/introduzione/desktop.ini",
+      "dependencies": []
+    },
+    "PHP/Introduzione/Funzioni PHP.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 4963,
+      "exportedPath": "php/introduzione/funzioni-php.html",
+      "dependencies": []
+    },
+    "PHP/Introduzione/Gestione dei FORM con PHP.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2384,
+      "exportedPath": "php/introduzione/gestione-dei-form-con-php.html",
+      "dependencies": []
+    },
+    "PHP/Introduzione/Introduzione.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 6417,
+      "exportedPath": "php/introduzione/introduzione.html",
+      "dependencies": []
+    },
+    "PHP/Introduzione/Istruzioni condizionali.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 3678,
+      "exportedPath": "php/introduzione/istruzioni-condizionali.html",
+      "dependencies": []
+    },
+    "PHP/Introduzione/Istruzioni iterative.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 3837,
+      "exportedPath": "php/introduzione/istruzioni-iterative.html",
+      "dependencies": []
+    },
+    "PHP/Introduzione/PHP e DATABASE.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 7776,
+      "exportedPath": "php/introduzione/php-e-database.html",
+      "dependencies": []
+    },
+    "PHP/Introduzione/Tecniche avanzate con PHP.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 20662,
+      "exportedPath": "php/introduzione/tecniche-avanzate-con-php.html",
+      "dependencies": []
+    },
+    "PHP/desktop.ini": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 244,
+      "exportedPath": "php/desktop.ini",
+      "dependencies": []
+    },
+    "PHP/Glossario PHP - Introduzione.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 230,
+      "exportedPath": "php/glossario-php-introduzione.html",
+      "dependencies": []
+    },
+    "Index.md": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 289,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/media/66gjhb8h.bmp": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1438230,
+      "exportedPath": "lib/media/66gjhb8h.bmp",
+      "dependencies": []
+    },
+    "lib/media/ywuhnty2.bmp": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 525786,
+      "exportedPath": "lib/media/ywuhnty2.bmp",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240208104042.png": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 54731,
+      "exportedPath": "lib/media/pasted-image-20240208104042.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240208104945.png": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 277022,
+      "exportedPath": "lib/media/pasted-image-20240208104945.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240208105000.png": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 339977,
+      "exportedPath": "lib/media/pasted-image-20240208105000.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240208105226.png": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 108950,
+      "exportedPath": "lib/media/pasted-image-20240208105226.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240208105247.png": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 149835,
+      "exportedPath": "lib/media/pasted-image-20240208105247.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 43884,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 9567,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 130183,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 2995,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 28931,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 311,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1719231506265,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
